@@ -1,6 +1,7 @@
 *{font-family: Times New Roman;}
 
 body{background-image: url("bird.png");
+     background-color: #000001;
      background-attachment: fixed;
      background-repeat: no-repeat;
      background-position: top right;}
