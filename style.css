@@ -1,10 +1,6 @@
 *{font-family: Times New Roman;}
 
-body{background-image: url("bird.png");
-     background-color: #000000;
-     background-attachment: fixed;
-     background-repeat: no-repeat;
-     background-position: top right;}
+body{background: url("bird.png") #000000 fixed no-repeat top right;}
 
 h1, h2{color: navy; font-family: Courrier New}
 
